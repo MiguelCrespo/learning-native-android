@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GithubViewer</string>
+    <string name="home_search_github">Search for a Github User</string>
+</resources>
